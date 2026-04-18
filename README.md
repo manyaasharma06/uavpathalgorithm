@@ -17,6 +17,7 @@ It can be compiled and executed using a standard C compiler.
 
 ### Step 1: Open Terminal and navigate to the folder
 cd path/to/your/folder
+> use the path to the folder where the program is stored
 
 ### Step 2: Compile the program
 gcc impl1.c -o impl1
